@@ -1,6 +1,5 @@
 # About me 🔍
-I've been working as a .NET Backend developer since 2023, focusing on API and web application development using ASP.NET and Blazor. My expertise includes cloud computing with Azure and relational SQL databases, alongside fluent English.
-
+I have been a .NET Software Engineer since 2022, developing APIs and web applications with ASP.NET, Node.js and Blazor. I have knowledge in cloud computing with Azure, relational and no relational databases. Additionally, I am fluent in English.
 
 ## Contact 🌐
 <div align="left">
