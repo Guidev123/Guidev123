@@ -1,5 +1,5 @@
 # About me 🔍
-I have been a .NET Software Engineer since 2022, developing APIs and web applications with ASP.NET, Node.js and Blazor. I have knowledge in cloud computing with Azure, relational and no relational databases. Additionally, I am fluent in English.
+I have been a .NET Software Engineer since 2023, developing APIs and web applications with ASP.NET, Node.js and Blazor. I have knowledge in cloud computing with Azure, relational and no relational databases. Additionally, I am fluent in English.
 
 ## Contact 🌐
 <div align="left">
