@@ -1,6 +1,5 @@
 # About me 🔍
-I have been a .NET Software Engineer since 2023, developing APIs and web applications with ASP.NET, Node.js and Blazor. I have knowledge in cloud computing with Azure, relational and no relational databases. Additionally, I am fluent in English.
-
+I've been a .NET software engineer since 2023, with experience in developing APIs and web applications using ASP.NET, Blazor, Angular and Node.js. I have knowledge in cloud computing with Azure and AWS, as well as relational and non-relational databases, and I am fluent in English.
 ## Contact 🌐
 <div align="left">
   <a href="guirafaelrn@gmail.com" target="_blank">
