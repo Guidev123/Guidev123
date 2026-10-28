@@ -20,20 +20,6 @@ I'm drawn to work where architecture decisions have long-term consequences and w
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
-<br>
-<br>
-<br>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-</div>
 
 ###
 <br>
@@ -41,4 +27,3 @@ I'm drawn to work where architecture decisions have long-term consequences and w
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guidev123&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
